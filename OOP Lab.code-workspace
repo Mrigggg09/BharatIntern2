@@ -1,0 +1,74 @@
+{
+	"folders": [
+		{
+			"path": "../OOP Lab"
+		},
+		{
+			"path": "../DSA Lab"
+		},
+		{
+			"path": "../Practice"
+		},
+		{
+			"path": "../../../WT class"
+		},
+		{
+			"path": "../JAVA Lab"
+		},
+		{
+			"path": "../../../WEB DEV/HTML-PERSONAL SITE"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../../../../Downloads/CSS+-+Bacon+Fansite/CSS - Bacon Fansite"
+		},
+		{
+			"path": "../../../WEB DEV/HTML-MY SITE"
+		},
+		{
+			"path": "../../../WT Sessional"
+		},
+		{
+			"path": "../K Site"
+		},
+		{
+			"path": "../LeetCode practice"
+		},
+		{
+			"path": "../Python"
+		},
+		{
+			"path": "../../../../Documents/openCV"
+		},
+		{
+			"path": "../DAA Lab"
+		},
+		{
+			"path": "../CN Lab"
+		},
+		{
+			"path": "../DOM"
+		},
+		{
+			"path": "../Dice Project"
+		},
+		{
+			"path": "../DrumKit Project"
+		},
+		{
+			"path": "../BharatIntern1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HTML-PERSONAL SITE"
+	}
+}
